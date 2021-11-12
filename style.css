@@ -1,0 +1,78 @@
+body{
+	ba
+	font-family: Roboto, Arial, sans-serif;
+	margin: 0px;
+	line-height: 24px;
+
+}
+
+
+header{
+	text-align: center;
+	padding: 120px 10px;
+	background-image: url(praia.jpg);
+	background-size: cover;
+	background-position: center;
+	
+}
+
+div{
+	max-width: 900px;
+	margin: 40px auto;
+	padding: 10px;
+}
+
+h1{
+	font-family: Roboto,Arial, sans-serif;
+	font-size: 50px;
+	color: whitesmoke;
+	color: #164455;
+	text-shadow: 2px 2px 4px #ffefe8;
+}
+
+footer{
+	text-align: center;
+	padding: 20px;
+	background-color: #E8CEBF;
+}
+
+a:focus {
+	color: #FFEFE8;
+
+}
+
+.purple{
+	background-color: #E8CEBF;
+}
+
+
+.botao{
+	background-color: #164455;
+	padding: 20px 30px;
+	border-radius: 50px;
+	text-decoration: none;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.botao:hover{
+	color: #2B677C;
+}
+.lista a{
+	color: #ffef8;
+	margin-bottom: 0px;
+
+}
+.lista a:hover{
+	color: #efbba1;
+
+}
+.lista li{
+	display: inline;
+	margin: 0 10px;
+}
+
+h2{
+	font-family: Montserrat, Arial, sans-serif;
+	font-size: 24px;
+	margin-bottom: 40px;
+}
